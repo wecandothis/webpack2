@@ -1,0 +1,22 @@
+{
+  "name": "webpack2",
+  "version": "1.0.0",
+  "description": "this is demo how to build webpack2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wecandothis/webpack2.git"
+  },
+  "author": "feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wecandothis/webpack2/issues"
+  },
+  "homepage": "https://github.com/wecandothis/webpack2#readme",
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  }
+}
