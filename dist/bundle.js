@@ -71,8 +71,8 @@
 /***/ (function(module, exports) {
 
 var app=document.getElementById("app");
-app.innerHTML='hit';
-alert('123')
+app.innerHTML='hello world is relly ';
+alert('456')
 
 /***/ })
 /******/ ]);
