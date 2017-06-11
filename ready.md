@@ -16,3 +16,9 @@
 >2.npm install rimraf --save-dev 
 >3.改动package.json.文件的命令 "build":"rimraf dist && webpack ./src/index.js ./dist/bundle.js --watch"
 >当前页面结构 ![alt text](./images/no2.png) ![alt text](./images/no3.png)
+
+
+# 第三次提交
+1. npm install webpack-dev-server --save-dev 
+ 下载webpack服务器
+2.创建webpack.config.js 与dev-server.js 文件并配置
